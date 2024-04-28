@@ -5,12 +5,12 @@ body {
   background-image: url("assets/motherr.jpeg");
 }
 h1 {
-    color: hotpink;
+    color: Magenta;
     text-align: center;
 }
 
 h2 {
-    color: blueviolet;
+    color: cyan;
 }
 
 p {
