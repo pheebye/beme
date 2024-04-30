@@ -30,13 +30,13 @@ p {
     position: fixed; bottom: 0em;
 }
 }
-#mydiv1 {
+#incel {
   position: absolute;
   z-index: 9;
   text-align: center;
 }
 
-#mydivheader1 {
+#incelheader {
   cursor: move;
   z-index: 10; 
 }
