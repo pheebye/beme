@@ -29,7 +29,20 @@ p {
 }footer {
     position: fixed; bottom: 0em;
 }
+}
+#mydiv1 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
 
+#mydivheader1 {
+  cursor: move;
+  z-index: 10;
+  background-color: transparent;  
+}footer {
+    position: fixed; bottom: 0em;
+}
 /* to call a class put a . before its name */
 .newacronym{
     color: aquamarine;
