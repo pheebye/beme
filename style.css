@@ -38,9 +38,10 @@ p {
 
 #mydivheader1 {
   cursor: move;
-  z-index: 10;
-  background-color: transparent;  
-}footer {
+  z-index: 10; 
+}
+
+footer {
     position: fixed; bottom: 0em;
 }
 
