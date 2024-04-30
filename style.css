@@ -23,7 +23,6 @@ p {
 }
 
 #mydivheader {
-  padding: 10px;
   cursor: move;
   z-index: 10;
 }footer {
