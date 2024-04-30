@@ -26,9 +26,9 @@ The index.html file is typically the landing page for a website on github pages 
   </div>
 
 <!-- Draggable DIV -->
-<div id="divvy">
+<div id="incel">
   <!-- Include a header DIV with the same name as the draggable DIV, followed by "header" -->
-  <div id="mydivvyheader"><img src="assets/incel.png"/> 
+  <div id="incelheader"><img src="assets/incel.png"/> 
   </div>
 
 <script>
@@ -77,13 +77,13 @@ function dragElement(elmnt) {
     </script>
     
 <script>
-    dragElement(document.getElementById("mydivvy"));
+    dragElement(document.getElementById("incel"));
 
 function dragElement(elmnt) {
   var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
-  if (document.getElementById(elmnt.id + "mydivvyheader")) {
+  if (document.getElementById(elmnt.id + "incelheader")) {
     // if present, the header is where you move the DIV from:
-    document.getElementById(elmnt.id + "mydivvyheader").onmousedown = dragMouseDown;
+    document.getElementById(elmnt.id + "incelheader").onmousedown = dragMouseDown;
   } else {
     // otherwise, move the DIV from anywhere inside the DIV:
     elmnt.onmousedown = dragMouseDown;
@@ -118,7 +118,7 @@ function closeDragElement() {
   }
 }
  </script>
- 
+</div>
         <div class="box1">
             <a href="https://residentchaosbean.github.io/Rileyy" target="_blank">/\ web ring link \/</a>
         </div>
