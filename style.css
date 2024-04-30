@@ -11,11 +11,11 @@ h1 {
 
 h2 {
     color: cyan;
-    text-align: centre;
 }
 
 p {
     color: chartreuse;
+  text-align: center;
 }
 #mydiv {
   position: absolute;
