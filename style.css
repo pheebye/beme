@@ -16,6 +16,15 @@ h2 {
 p {
     color: chartreuse;
 }
+#mydiv {
+  position: absolute;
+
+}
+
+#mydivheader {
+  padding: 10px;
+ 
+}
 
 footer {
     position: fixed; bottom: 0em;
