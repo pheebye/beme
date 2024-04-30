@@ -81,6 +81,7 @@ function dragElement(elmnt) {
   }
 }
     </script>
+    
 <script>
     dragElement(document.getElementById("mydiv1"));
 
@@ -104,8 +105,7 @@ function dragElement(elmnt) {
     // call a function whenever the cursor moves:
     document.onmousemove = elementDrag;
   }
-
-  function elementDrag(e) {
+function elementDrag(e) {
     e = e || window.event;
     e.preventDefault();
     // calculate the new cursor position:
@@ -117,8 +117,7 @@ function dragElement(elmnt) {
     elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
     elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
   }
-
-  function closeDragElement() {
+function closeDragElement() {
     // stop moving when mouse button is released:
     document.onmouseup = null;
     document.onmousemove = null;
