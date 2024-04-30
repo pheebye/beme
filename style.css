@@ -25,6 +25,7 @@ p {
 #mydivheader {
   cursor: move;
   z-index: 10;
+  background-color: transparent;  
 }footer {
     position: fixed; bottom: 0em;
 }
