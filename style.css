@@ -20,7 +20,7 @@ p {
   text-align: left;
 }
 
-pre {
+.my-pre {
    background: white;
    color: red;
    padding: 20px;
