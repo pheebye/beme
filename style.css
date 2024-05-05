@@ -42,8 +42,12 @@ p {
   cursor: move;
   z-index: 10; 
 }
-
-footer {
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 5vw);
+    grid-gap: 15px;
+}footer {
     position: fixed; bottom: 0em;
 }
 
