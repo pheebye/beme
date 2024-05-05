@@ -21,13 +21,11 @@ p1 {
  
 .p2 {
   font-family: Arial, sans-serif;
+  Colour:hotpink;
+  text-align:center;
 }
   
 
-p2 {
-  colour:hotpink;
-  text-align: center;
-}
 #mydiv {
   position: absolute;
   z-index: 9;
