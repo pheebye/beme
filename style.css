@@ -53,4 +53,10 @@ p {
 .box1 {
     border: white;
     padding: 1em;
+  text-align: left;
+}
+
+#image-container {
+  text-align: center;
+}
 
