@@ -14,16 +14,13 @@ h2 {
   text-align:center;
 }
 
-p1 {
+p {
     color: chartreuse;
   text-align: left;
 }
- 
-.p2 {
-  font-family: Arial, sans-serif;
-  Colour:hotpink;
-  text-align:center;
-}
+ pre {
+   colour:red;
+ }
   
 
 #mydiv {
