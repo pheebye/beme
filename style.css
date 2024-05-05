@@ -14,11 +14,17 @@ h2 {
   text-align:center;
 }
 
-p {
+p1 {
     color: chartreuse;
   text-align: left;
 }
-p {
+ 
+.p2 {
+  font-family: Arial, sans-serif;
+}
+  
+
+p2 {
   colour:hotpink;
   text-align: center;
 }
