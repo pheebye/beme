@@ -25,7 +25,20 @@ p {
    color: red;
    padding: 20px;
  }
-  
+  #mydiv2 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+
+#mydiv2header {
+  cursor: move;
+  z-index: 10;
+  background-color: transparent;  
+}footer {
+    position: fixed; bottom: 0em;
+}
+
 
 #mydiv {
   position: absolute;
