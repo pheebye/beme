@@ -28,7 +28,7 @@ p {
   #mydiv2 {
   position: absolute;
   z-index: 9;
-  text-align: center;
+  text-align: right;
 }
 
 #mydiv2header {
