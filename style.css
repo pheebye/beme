@@ -6,7 +6,7 @@ body {
 }
 h1 {
     color: Red;
-    text-align: center;
+    text-align: left;
     font-family: Arial, sans-serif;
 }
 
@@ -22,7 +22,7 @@ p {
 
 .my-pre {
    background: white;
-   color: red;
+   color: green;
    padding: 20px;
  }
   #mydiv2 {
