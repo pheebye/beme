@@ -27,10 +27,11 @@ p {
  }
   #mydiv2 {
   position: absolute;
+  top: 8px;
+  right: 16px; 
   z-index: 9;
   text-align: right;
-    top: 8px;
-  right: 16px;
+   
   }
 
 #mydiv2header {
