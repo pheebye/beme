@@ -29,7 +29,9 @@ p {
   position: absolute;
   z-index: 9;
   text-align: right;
-}
+    top: 8px;
+  right: 16px;
+  }
 
 #mydiv2header {
   cursor: move;
