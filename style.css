@@ -15,10 +15,10 @@ h2 {
   text-align:center;
 }
 h3 {
-  colour: red;
+  color: red;
   text-align:center;
 }
-.select {
+#select {
   text-align:center;
 }
 p {
