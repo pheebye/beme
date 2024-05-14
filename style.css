@@ -18,6 +18,9 @@ h3 {
   colour: red;
   text-align:center;
 }
+.select {
+  text-align:center;
+}
 p {
     color: 556B2F;
   text-align: left;
