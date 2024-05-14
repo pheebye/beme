@@ -43,6 +43,7 @@ p {
 .video-container {
 	width: 400px;
 	height: 250px;
+	video-align:right;
 }
 
 #mydiv2header {
