@@ -40,6 +40,11 @@ p {
    
   }
 
+.video-container {
+	width: 640px;
+	height: 480px;
+}
+
 #mydiv2header {
   cursor: move;
   z-index: 10;
