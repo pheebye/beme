@@ -43,10 +43,6 @@ p {
 .video-container {
 	width: 400px;
 	height: 250px;
-	 position: absolute;
-  top: 8px;
-  right: 16px; 
-  z-index: 9;
 }
 
 #mydiv2header {
