@@ -44,12 +44,14 @@ p {
   }
 
 .video-container {
-	width: 400px;
-	height: 250px;
-	position: relative;
-        top: -50px;
+	width: 640px;
+	height: 480px;
 }
 
+.video-container > video {
+	width: auto;
+	height: 100%;
+}
 #mydiv2header {
   cursor: move;
   z-index: 10;
