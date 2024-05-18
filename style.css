@@ -50,7 +50,6 @@ p {
 
 .video-container > video {
 	width: auto;
-	height: 100%;
 }
 #mydiv2header {
   cursor: move;
