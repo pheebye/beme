@@ -46,7 +46,9 @@ p {
 .video-container {
 	display:flex;
 }
-
+.fit-contain {
+	display:inline-block;
+}
 
 #mydiv2header {
   cursor: move;
