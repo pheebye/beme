@@ -44,8 +44,7 @@ p {
   }
 
 .video-container {
-	width: 480px;
-	height: 240px;
+	display:flex;
 }
 
 
