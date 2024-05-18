@@ -31,6 +31,9 @@ p {
    color:  red;
    padding: 20px;
  }
+.my-pre2 {
+	text-align: right;
+}
   #mydiv2 {
   position: absolute;
   top: 8px;
