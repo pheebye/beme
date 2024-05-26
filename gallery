@@ -1,1 +1,22 @@
+<!DOCTYPE html> <!-- This announces to the machine that the file is written in HTML
+The index.html file is typically the landing page for a website on github pages (the platform we are going to use to host our websites), which then links to other pages (E.G aboutme.html or surfing.html). If you type your github URL into the browser the index.html page will display by default -->
 
+<!-- this is a comment, its not displayed on the page but you can use it to leave notes for youself/inquisitive visitors.-->
+<html>
+<head> 
+	<!-- The head is where the page begins, here we give important instructons on how to display content contained on the page. -->
+	<link rel="icon" href="assets/beme1.png"> 
+	<link href="style2.css" rel="stylesheet"> <!-- this links your HTML file to your style sheet, which gives instructions on how the page is displayed including; font, background, layout, favicon -->
+    <title> Make Love not Incels </title> <!-- The title of your page will display in the tab. Fun fact the icon displayed in the tab is called a favicon. -->
+</head>
+
+
+<body>
+	<h1>Gallery</h1>	
+
+</body>
+
+<footer> <!-- The footer is a the end of the page, it's totally optional and typically contains a note about the last update, or a dis on your sworn enemy.-->
+  
+</footer>
+</html>
