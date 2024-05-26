@@ -4,6 +4,10 @@
 body {
   background-image: url("assets/motherr.jpeg");
 }
+.header1 {
+	color: red;
+	text-align:center;
+}
 h1 {
     color: Red;
     text-align: center;
