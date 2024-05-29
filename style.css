@@ -96,7 +96,7 @@ p {
   text-align: center;
 }
 
-#work {
+a {
     background: green;
     display: block;
     height: 100px;
