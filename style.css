@@ -98,7 +98,9 @@ p {
 .button {
   display: block;
   position: relative;
-  text-align: center;
 }
-
+.button {
+  top: 830px;
+  right: 400px;
+}
 
