@@ -97,7 +97,7 @@ p {
 }
 .button {
   display: block;
-  position: absolute;
+  position: relative;
   text-align: center;
 }
 
