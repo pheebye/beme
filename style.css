@@ -95,11 +95,11 @@ p {
 #img-container {
   text-align: center;
 }
-.a {
+a {
   display: block;
   position: relative;
 }
-.a {
+a {
   top: 830px;
   right: 400px;
 }
