@@ -96,11 +96,6 @@ p {
   text-align: center;
 }
 a {
-  display: block;
-  position: relative;
-}
-a {
-  top: 830px;
-  right: 400px;
+text-align:center;
 }
 
