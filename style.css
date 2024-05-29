@@ -97,7 +97,8 @@ p {
 }
 
 a {
-    text-align: center
+	font-size: 100;
+    text-align: center;
     background: green;
     display: block;
     height: 100px;
