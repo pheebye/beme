@@ -95,4 +95,12 @@ p {
 #img-container {
   text-align: center;
 }
+.button {
+  display: block;
+  position: absolute;
+}
 
+.steak-button {
+  top: 100px;
+  right: 110px;
+}
