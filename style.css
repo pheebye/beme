@@ -95,7 +95,10 @@ p {
 #img-container {
   text-align: center;
 }
-a {
-text-align:center;
-}
 
+#works {
+    background: green;
+    display: block;
+    height: 100px;
+    width: 200px;
+}  
