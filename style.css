@@ -97,7 +97,7 @@ p {
   text-align: center;
 }
 
-gallery-link {
+.gallery-link {
      position:fixed;
     bottom:-50px;
     right:60px;
