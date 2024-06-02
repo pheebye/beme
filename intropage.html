@@ -20,7 +20,13 @@ The index.html file is typically the landing page for a website on github pages 
   <option> maybe. tell me more.</option>
 </select>
 	<a href="index.html" title="enter">enter</a>
-
+	
+	<select onchange="location = this.options[this.selectedIndex].value;">
+    <option>Please select</option>
+    <option value="http://www.apple.com/">Apple</option>
+    <option value="http://www.bbc.com">BBC</option>
+    <option value="http://www.facebook.com">Facebook</option>
+</select>
 </body>
 
 <footer> <!-- The footer is a the end of the page, it's totally optional and typically contains a note about the last update, or a dis on your sworn enemy.-->
