@@ -109,8 +109,10 @@ p {
 }
 
 .div-pre {
-  margin: 20px;
-marigin-top:20px;
-  padding: 20px;
-  background: white;
+  width: 200px;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+ background: white;
 }
+
