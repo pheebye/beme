@@ -102,5 +102,9 @@ p {
   right: 30px; 
   
 }
-	
+.end-pre {
+   background: white;
+   color:  red;
+   padding: 10px;
+ }	
 
