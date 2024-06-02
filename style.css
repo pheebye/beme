@@ -108,5 +108,7 @@ p {
   display: block;
   white-space: pre;
   margin: 1em 0;
-background: white
+background: white;
+	color: red;
+	
 }
