@@ -99,9 +99,8 @@ p {
 #gallerylink {
   position: absolute;
   top: 50px;
-  right: 15px; 
-  z-index: 20;
-  text-align: center;
+  right: 20px; 
+  
 }
 	
 
